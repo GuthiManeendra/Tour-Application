@@ -1,3 +1,4 @@
+import Footer from "../footer/Footer"
 import Header from "../header/Header"
 import { Routes } from "../routing/Routes"
 
@@ -6,6 +7,7 @@ export const Layout =()=>{
         <>
         <Header/>
         <Routes/>
+        <Footer/>
         </>
     )
 }
