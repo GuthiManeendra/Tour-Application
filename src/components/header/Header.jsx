@@ -5,7 +5,7 @@ import logo from "../../assets/images/logo.png";
 import "./Header.css";
 
 const nav_links = [
-  { path: "/home", display: "Home" },
+  { path: "/home", display: "Homee" },
   { path: "/about", display: "About" },
   { path: "/tours", display: "Tours" },
   { path: "/login", display: "Login" },
